@@ -1,0 +1,7 @@
+var nome = ( prompt("Digite seu nome") );
+var idade =( prompt("Digite sua idade") );
+var endereco =( prompt("digite seu endereco") );
+
+console.log ( nome);
+console.log ( idade);
+console.log ( endereco);
